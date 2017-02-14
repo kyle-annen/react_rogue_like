@@ -1,0 +1,1 @@
+import RogueLike from './roguelike.jsx';
